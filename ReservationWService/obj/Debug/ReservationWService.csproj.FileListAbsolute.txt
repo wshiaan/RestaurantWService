@@ -1,0 +1,5 @@
+C:\Users\wxl702\Documents\ReservationWService\ReservationWService\bin\ReservationWService.dll
+C:\Users\wxl702\Documents\ReservationWService\ReservationWService\bin\ReservationWService.pdb
+C:\Users\wxl702\Documents\ReservationWService\ReservationWService\obj\Debug\ReservationWService.dll
+C:\Users\wxl702\Documents\ReservationWService\ReservationWService\obj\Debug\ReservationWService.pdb
+C:\Users\wxl702\Documents\ReservationWService\ReservationWService\obj\Debug\ReservationWService.csprojResolveAssemblyReference.cache
